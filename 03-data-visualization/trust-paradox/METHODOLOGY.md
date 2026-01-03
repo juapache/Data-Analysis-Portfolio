@@ -425,7 +425,7 @@ See [ACADEMIC_REFERENCES.md](ACADEMIC_REFERENCES.md) for complete bibliography.
 
 For questions on model specification, implementation, or validation:
 - Open an issue on GitHub
-- Contact: [your email]
+- Contact: juapache@protonmail.com
 - Website: [juapache.github.io](https://juapache.github.io)
 
 ---

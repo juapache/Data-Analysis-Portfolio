@@ -503,7 +503,7 @@ See [src/](../../src/):
 
 ### Community
 - GitHub Issues: Report bugs or request features
-- Email: [your contact]
+- Email: juapache@protonmail.com
 - Website: [juapache.github.io](https://juapache.github.io)
 
 ---

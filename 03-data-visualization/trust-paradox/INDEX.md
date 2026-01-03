@@ -242,7 +242,7 @@ See [ACADEMIC_REFERENCES.md](ACADEMIC_REFERENCES.md) for 39+ papers, books, and 
 ## 📞 Contact & Support
 
 **Website**: [juapache.github.io](https://juapache.github.io)  
-**Email**: [your contact email]  
+**Email**: juapache@protonmail.com  
 **GitHub**: [juapache/research-workspace](https://github.com/juapache/research-workspace)
 
 ---

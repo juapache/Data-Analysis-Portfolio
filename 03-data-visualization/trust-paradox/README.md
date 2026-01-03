@@ -192,7 +192,7 @@ See [LICENSE](../../LICENSE) for details.
 ## Contact & Feedback
 
 - **Website**: [juapache.github.io](https://juapache.github.io)
-- **Email**: [your email]
+- **Email**: juapache@protonmail.com
 - **Issues & suggestions**: Open an issue on GitHub or contact directly
 
 ---

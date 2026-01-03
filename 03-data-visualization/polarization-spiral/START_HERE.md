@@ -116,7 +116,7 @@ A: Yes! See [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md) § D.
 
 - **Website**: [juapache.github.io](https://juapache.github.io)
 - **GitHub**: [juapache/research-workspace](https://github.com/juapache/research-workspace)
-- **Email**: [Contact info]
+- **Email**: juapache@protonmail.com
 
 ---
 
