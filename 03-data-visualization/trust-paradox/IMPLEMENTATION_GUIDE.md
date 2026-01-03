@@ -131,22 +131,9 @@ If mismatches exist, investigate:
 ### A.3 For Programmers & Data Scientists
 **Goal**: Extend or integrate the model into applications
 
-#### Setup (Python)
-
-```bash
-# Clone repository
-git clone <repo-url>
-cd Data-Analysis-Portfolio/03-data-visualization/trust-paradox
-
-# Create virtual environment
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 #### Use the Model as a Library
+
+**Note**: This tool is designed for web-based interactive exploration. For research or analytical use, refer to the mathematical formulas in [METHODOLOGY.md](METHODOLOGY.md) to implement the calculations in your preferred environment.
 
 ```python
 # Import the calculator

@@ -72,26 +72,11 @@ Based on which drivers are highest:
 
 ## For Developers & Data Scientists (2–4 weeks)
 
-### Setup
-```bash
-git clone <repo>
-cd Data-Analysis-Portfolio/03-data-visualization/polarization-spiral
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+**Note**: This tool is designed for web-based interactive exploration. For research or analytical use, refer to the mathematical formulas in [METHODOLOGY.md](METHODOLOGY.md) to implement the calculations in your preferred environment.
 
-### Use as Library
-```python
-from src.polarization_calculator import calculate_polarization
+### Understanding the Model
 
-result = calculate_polarization(
-    fragmentation=70,
-    echo=75,
-    dialogue=35
-)
-# Returns: {'polarization': 62.5, 'diversity': 74, ...}
-```
+The Polarization Spiral uses three core drivers to calculate four outputs. See [METHODOLOGY.md](METHODOLOGY.md) for complete mathematical specifications and examples.
 
 ### Run Notebooks
 ```bash

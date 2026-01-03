@@ -65,35 +65,9 @@ polarization-spiral/
 
 ## Getting Started
 
-### Prerequisites
+### Quick Start: Explore the Interactive Tool
 
-- Python 3.9+
-- Jupyter Notebook or JupyterLab
-- Dependencies listed in `requirements.txt`
-
-### Installation
-
-```bash
-# Clone the workspace
-git clone <repository-url>
-cd research-workspace/Data-Analysis-Portfolio/03-data-visualization/polarization-spiral
-
-# Create virtual environment
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Quick Start: Run the Interactive Tool
-
-1. **Web version**: Open [juapache.github.io/polarization-spiral.html](https://juapache.github.io/polarization-spiral.html) in your browser (no setup required)
-2. **Jupyter-based analysis**: Launch notebooks
-   ```bash
-   jupyter lab
-   ```
-   Then open `notebooks/01_polarization_dynamics.ipynb`
+**Web version**: Open [juapache.github.io/polarization-spiral.html](https://juapache.github.io/polarization-spiral.html) in your browser to explore the interactive visualization (no setup required)
 
 ## Key Dimensions & Assumptions
 
